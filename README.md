@@ -8,6 +8,6 @@ You can download water footprint world window and android version.
 We have a plan to open our source.  
 
 ## Developers
-Main Developer : Seung-Hyun Kim
+Main Developer : Seung-Hyeon Kim
 Sub Developer : Da-Eun Lee
 Director : In-Pyo Cho
