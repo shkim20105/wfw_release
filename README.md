@@ -6,8 +6,8 @@
 This is for Water Footprint World Release.  
 You can download water footprint world window and android version.  
 We have a plan to open our source.  
-Please visit our AqUS and leave your idea on the development of this App.  
-Let's all work together for saving the earth.  
+Please visit our AqUS Facebook page and leave your idea about the development of this App.  
+Let's all work together to save the earth.  
 https://www.facebook.com/AqUs-112367507340815
 
 
