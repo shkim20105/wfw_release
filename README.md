@@ -32,7 +32,7 @@ https://www.facebook.com/AqUs-112367507340815
 
 
 ## Future Plans
-
+```
 1. App release and update based on user feedback  
     A. Upload and release app on GitHub, a world class app developer group.  
     B. Promote the app via SNS and collect feedback  
@@ -42,17 +42,18 @@ https://www.facebook.com/AqUs-112367507340815
     D. Promote and spread water footprint movement so that more people(students) become aware of the importance of global environmental protection and practice water conservation in their daily lives.  
     
 2. Enhancement of game content  
-    A. Anyone should be able to access and update theapp.
-    B. Continuousupdate on waterconservation information through the mail menu (update information according tothe region the player lives)
-    C. Diversify characters (characters wearing Korean hanbok, Pororo,characters wearing Japanese kimonos, etc.)
-    D. Diversify items.
-        -Various types of trees and flowers
-        -Various types and number of animals that appear each time the playerpurchases an item
-        -Character's costumes and accessories
-        -Camping equipment and tools (kitchen tools, food ingredients, varioustypes of tent, lanterns)
-    E. Organize in-game events.
-        -If the player prepares camping equipment, provide campfires or fireworksat night
-        -Enhance entertainment factors by preparing in-game quests such as huntingfor treasure or creating items by collecting certain materials. 
+    A. Anyone should be able to access and update theapp.  
+    B. Continuousupdate on waterconservation information through the mail menu (update information according tothe region the player lives)  
+    C. Diversify characters (characters wearing Korean hanbok, Pororo,characters wearing Japanese kimonos, etc.)  
+    D. Diversify items.  
+        - Various types of trees and flowers  
+        - Various types and number of animals that appear each time the playerpurchases an item  
+        - Character's costumes and accessories  
+        - Camping equipment and tools (kitchen tools, food ingredients, varioustypes of tent, lanterns)  
+    E. Organize in-game events.  
+        - If the player prepares camping equipment, provide campfires or fireworksat night  
+        - Enhance entertainment factors by preparing in-game quests such as huntingfor treasure or creating items by collecting certain materials.   
+```
 ## Developers
 Main Developer : Seung-Hyeon Kim, So-Yoon Moon  
 Sub Developer : Da-Eun Lee  
