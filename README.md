@@ -5,9 +5,11 @@
 ## Welcome
 This is for Water Footprint World Release.  
 You can download water footprint world window and android version.  
-We have a plan to open our source.
-Please visit our AqUS and leave your idea on the development of this App.
+We have a plan to open our source.  
+Please visit our AqUS and leave your idea on the development of this App.  
+Let's all work together for saving earth.  
 https://www.facebook.com/AqUs-112367507340815
+
 
 ## Developers
 Main Developer : Seung-Hyeon Kim, So-Yoon Moon,
