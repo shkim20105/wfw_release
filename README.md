@@ -12,24 +12,37 @@ https://www.facebook.com/AqUs-112367507340815
 
 ## How to play
 
+### 1. Login
+![image](https://user-images.githubusercontent.com/69389633/98173069-c7c16480-1f35-11eb-977e-c6c8d63eb375.png)
 
-2-1 Click mail menu  
-→ introduce tips on saving water and solve Quiz (10 points if correct, 5 points when wrong)  
+### 2. Mail menu
+![image](https://user-images.githubusercontent.com/69389633/98173074-cc861880-1f35-11eb-8030-5d6359078415.png)
 
-3. Click shop menu → Buy items with saved up points  
-- The items currently prepared are water, flowers, and trees. - The screen changes every tims an item is purchased. - The star sign below the item indicates the number of times the items can be purchased. - More animals appear when an item is purchased multiple times  
-(flower=rabbit, tree=bird) 
+### 2-1 Click mail menu → introduce tips on saving water and solve Quiz (10 points if correct, 5 points when wrong)  
+![image](https://user-images.githubusercontent.com/69389633/98172569-effc9380-1f34-11eb-81d7-13f539993fb1.png)
 
-3-1 Screen change when the maximum amount of water is purchased (3 times)  
+### 3. Click shop menu → Buy items with saved up points  
+  - The items currently prepared are water, flowers, and trees.  
+  - The screen changes every tims an item is purchased.  
+  - The star sign below the item indicates the number of times the items can be purchased.    
+  - More animals appear when an item is purchased multiple times (flower=rabbit, tree=bird)    
+![image](https://user-images.githubusercontent.com/69389633/98173089-d3149000-1f35-11eb-828d-a66f74d26448.png)  
 
-3-2 Screen change when the maximum amount of water and flowers are purchased (5times)  
+### 3-1 Screen change when the maximum amount of water is purchased (3 times)  
+![image](https://user-images.githubusercontent.com/69389633/98173092-d6a81700-1f35-11eb-8a3c-d7c105daa184.png)  
 
-3-3 Screen change when the maximum amount of water, flowers, and trees are purchased (5 times)  
+### 3-2 Screen change when the maximum amount of water and flowers are purchased (5times)  
+![image](https://user-images.githubusercontent.com/69389633/98173098-da3b9e00-1f35-11eb-8579-69d79495e2bf.png)  
 
-4. Information of the game character can be checked in Myinfo - Character’s illustration, name, level, point, and weekly quiz point accumulation graph
+### 3-3 Screen change when the maximum amount of water, flowers, and trees are purchased (5 times)  
+![image](https://user-images.githubusercontent.com/69389633/98173113-df005200-1f35-11eb-8e68-e3eda6283dd5.png)  
 
-5. Adventure: The player becomes a character in the game and explores the world - Controllable by using the left and right adjustment icons with a mouse -Left icon controls the movement of back and forth, left and right, and the right icon changes the direction(left and right)
+### 4. Information of the game character can be checked in Myinfo - Character’s illustration, name, level, point, and weekly quiz point accumulation graph
+![image](https://user-images.githubusercontent.com/69389633/98173123-e32c6f80-1f35-11eb-9da8-a77b4319dc1f.png)  
 
+### 5. Adventure: The player becomes a character in the game and explores the world - Controllable by using the left and right adjustment icons with a mouse -Left icon controls the movement of back and forth, left and right, and the right icon changes the direction(left and right)
+![image](https://user-images.githubusercontent.com/69389633/98173142-ea537d80-1f35-11eb-989c-640c088ab140.png)  
+![image](https://user-images.githubusercontent.com/69389633/98173157-efb0c800-1f35-11eb-8fd7-48a3c98c4338.png)  
 
 ## Future Plans
 ```
