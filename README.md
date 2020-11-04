@@ -68,6 +68,7 @@ https://www.facebook.com/AqUs-112367507340815
         - Enhance entertainment factors by preparing in-game quests such as huntingfor treasure or creating items by collecting certain materials.   
 ```
 ## Developers
-Main Developer : Seung-Hyeon Kim, So-Yoon Moon  
-Sub Developer : Da-Eun Lee  
-Director : In-Pyo Cho  
+
+#### Main Developer : Seung-Hyeon Kim, So-Yoon Moon  
+#### Sub Developer : Da-Eun Lee  
+#### Director : In-Pyo Cho  
